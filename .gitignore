@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large files (> 100MB, blocked by GitHub)
+Safety Vests*.zip
+*.zip
+m1.mp4
+weights/
+
+# Dataset folders (~8GB, excluded from git)
+train/
+valid/
+test/
+
+# YOLO & Label caches
+*.cache
+*.npy
+
+# Training runs & checkpoints
+runs/
+
+# Flask / Web processed outputs
+static/processed_videos/
+
+# Framework caches
+.gradio/
+flagged/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+train: C:\Users\SANJAY\Desktop\ml.data\train
+val: C:\Users\SANJAY\Desktop\ml.data\valid
+test: C:\Users\SANJAY\Desktop\ml.data\test
+
+names: 
+  0: no-vest
+  1: vest
